@@ -9,7 +9,7 @@
 | | |
 |-|-|
 | **Goal** | *reference a goal here* |
-| **Priority** | *Priority of project, 1,2, or 3* |
+| **Priority** | *Priority of project (1,2, or 3)* |
 | **Estimated duration** | *Estimation of time to complete* |
 | **Team Members** | *Initials of team members involved in project* |
 | **Coordinator** | *Initials of project coordinator* |
