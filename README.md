@@ -37,11 +37,9 @@ This section should give a brief project descrition, fill in below
 *Are there any milestones included in the project?*
 
 ## Project activities
-*This section shows the tasks that are needed to complete the project. Tasks are made as issues*
-*Included is one example task that should be removed when creating the project*
+*This section shows the tasks that are needed to complete the project and the status of the tasks.* *Tasks are made as issues*
+*Add and arrange tasks in the Projects section*
 
-| Task title | Issue | Persons involved |
-|-|-|-|
-| *Name of task* | *reference to issue* | *Initials of persons assigned to task* |
-| **Example task** | [1](https://github.com/Clinical-Genomics/cpg-project-template/issues/1) | MM |
+![Projects][projects]
 
+[projects]: https://github.com/Clinical-Genomics/cpg-hasta-upgrade-nodes/.github/img/projects.png
