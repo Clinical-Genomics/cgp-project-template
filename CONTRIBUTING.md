@@ -12,11 +12,25 @@ GitHub :octocat: have a [guide][templates] to create a repository for a template
 1. Click **Create repository from template** :shipit: ![Create repo][click-create]
 
 
-## Creating tasks :white_check_mark:
+## Updating a project
+
+### Edit a file
+
+To edit a file start with navigating to that file (mostly it will be README.md for projects). Click the symbol of a pencil in the top right corner of file ![Edit][edit-file]
+
+### Creating tasks :white_check_mark:
 
 - go to Issues and click *New Issue*
 - a tasks template will open
 - follow the template guidelines
+
+## Organizing tasks
+
+Go to the Projects button in the top of the page ![Projects][projects]
+
+Drag the tasks to the column that reflects the status of the task
+
+
 
 ## General GitHub usage :octocat:
 
@@ -30,3 +44,5 @@ Best reference is the [official GitHub guide][github-help]
 [add-description]: .github/img/add_description.png
 [choose-visibility]: .github/img/choose_visibility.png
 [click-create]: .github/img/finalize.png
+[projects]: .github/img/projects.png
+[edit-file]: .github/img/edit_template.png
