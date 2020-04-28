@@ -16,7 +16,14 @@ GitHub :octocat: have a [guide][templates] to create a repository for a template
 
 ### Edit a file
 
-To edit a file start with navigating to that file (mostly it will be README.md for projects). Click the symbol of a pencil in the top right corner of file ![Edit][edit-file]
+1. Start with navigating to that file (mostly it will be README.md for projects)
+1. Click the symbol of a pencil in the top right corner of file. ![Edit][edit-file]
+1. Update the file with the changes you intended to make, following the [GitHub markdown syntax][gh-markdown].
+1. When ready, navigate to the bottom of the page. Write a small commit message if appropriate (it's fine to leave it with the default "Update README.md").
+1. Add a more extensive description below if needed.
+1. Choose *Create a **new branch** for this commit and start a pull request*
+1. Choose a name for your branch with changes
+1. Finally click **Propose file change** ![Changes][propose-changes]
 
 ### Creating tasks :white_check_mark:
 
@@ -37,6 +44,7 @@ Drag the tasks to the column that reflects the status of the task
 Best reference is the [official GitHub guide][github-help]
 
 [github-help]: https://help.github.com/en/github
+[gh-markdown]: https://guides.github.com/features/mastering-markdown/
 [templates]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
 [use-this]: .github/img/use_this_template.png
 [choose-owner]: .github/img/owner_marked.png
@@ -46,3 +54,4 @@ Best reference is the [official GitHub guide][github-help]
 [click-create]: .github/img/finalize.png
 [projects]: .github/img/projects.png
 [edit-file]: .github/img/edit_template.png
+[propose-changes]: .github/img/edit_template.png
