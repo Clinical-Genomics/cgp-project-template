@@ -8,7 +8,7 @@ GitHub :octocat: have a [guide][templates] to create a repository for a template
 1. In the **Owner** drop-down menu select Clinical-Genomics. ![choose owner][choose-owner]
 1. Type the name of the new repository. Should always start with **cpg** then project name for searchability. Use dashes, `-`, instead of spaces when naming. ![Name repo][name-repo]
 1. Add a short description. ![Add description][add-description]
-1. Choose repository visibility. Choose **public** if there is no particular reason to keep it private
+1. Choose repository visibility. Choose **public** if there is no particular reason to keep it private. ![choose visibility][choose-visibility]
 1. Click **Create repository from template** :shipit:
 
 
@@ -28,3 +28,4 @@ Best reference is the [official GitHub guide][github-help]
 [choose-owner]: .github/owner_marked.png
 [name-repo]: .github/name_of_repository.png
 [add-description]: .github/add_description.png
+[choose-visibility]: .github/choose_visibility.png
