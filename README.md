@@ -1,4 +1,4 @@
-# cpg-project-template
+# cgp-project-template
 
 *This is a template folder for creating a project, this file is a template for structuring a project. For more detailed information on creating a new project and how to contribute check out CONTRIBUTING.md*
 
@@ -42,4 +42,4 @@ This section should give a brief project descrition, fill in below
 
 ![Projects][projects]
 
-[projects]: https://github.com/Clinical-Genomics/cpg-hasta-upgrade-nodes/.github/img/projects.png
+[projects]: .github/img/projects.png
