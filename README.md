@@ -2,7 +2,7 @@
 
 *This is a template folder for creating a project, this file is a template for structuring a project. For more detailed information on creating a new project and how to contribute check out CONTRIBUTING.md*
 
-*To start with replace the title **cpg-project-template** with the name of the project.*
+*To start with replace the title **cgp-project-template** with the name of the project.*
 *All italic text should be replaced with project specific information*
 
 ## Project summary
