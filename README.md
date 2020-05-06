@@ -17,7 +17,7 @@
 
 ## Project description
 
-This section should give a brief project descrition, fill in below
+*This section should give a brief project descrition, fill in below*
 
 ### Aim(s)
 
